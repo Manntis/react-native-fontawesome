@@ -244,6 +244,7 @@ const Icons = {
   columns: "\uf0db",
   comment: "\uf075",
   commentAlt: "\uf27a",
+  commentAltPlus: "\uf4a8",
   commentDollar: "\uf651",
   commentDots: "\uf4ad",
   commentSlash: "\uf4b3",
