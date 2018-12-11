@@ -211,6 +211,7 @@ const Icons = {
   chevronCircleRight: "\uf138",
   chevronCircleUp: "\uf139",
   chevronDown: "\uf078",
+  chevronDoubleRight: "\uf324",
   chevronLeft: "\uf053",
   chevronRight: "\uf054",
   chevronUp: "\uf077",
