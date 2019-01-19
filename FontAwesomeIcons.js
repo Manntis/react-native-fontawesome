@@ -364,6 +364,7 @@ const Icons = {
   exclamation: "\uf12a",
   exclamationCircle: "\uf06a",
   exclamationTriangle: "\uf071",
+  exclamationSquare: "\uf321",
   expand: "\uf065",
   expandArrowsAlt: "\uf31e",
   expeditedssl: "\uf23e",
