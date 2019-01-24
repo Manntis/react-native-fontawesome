@@ -16,6 +16,7 @@ const Icons = {
   adversal: "\uf36a",
   affiliatetheme: "\uf36b",
   airFreshener: "\uf5d0",
+  alarmClock: "\uf34e",
   algolia: "\uf36c",
   alignCenter: "\uf037",
   alignJustify: "\uf039",
